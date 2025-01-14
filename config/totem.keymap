@@ -179,7 +179,7 @@ label= "GER"                               ;
 
                 &trans      &trans      &kp RA(5)   &trans      &trans          &trans      &kp RA(Y)    &trans     &kp RA(P)     &trans       
                 &kp RA(Q)   &kp RA(S)   &trans      &trans      &trans          &trans      &trans       &trans     &trans        &trans
-    &trans      &trans      &trans      &trans      &trans      &trans          &trans      &trans       &trans     &ktrans       &ktrans   &trans         
+    &trans      &trans      &trans      &trans      &trans      &trans          &trans      &trans       &trans     &trans       &trans   &trans         
                                         &trans      &gif        &trans          &trans      &trans    &trans      
                         >;
                 };
